@@ -1,0 +1,46 @@
+order_id,order_date,order_time,customer_id,customer_name,customer_role,item_id,item_name,category,unit_price,quantity,line_total,payment_method,payment_status
+101,2026-11-15,08:30:00,1,Aravind Swaminathan,Student,1,Ghee Roast Dosa,Breakfast,45.00,2,90.00,UPI,Success
+102,2026-11-15,09:15:00,2,Bhavana Ramesh,Student,17,Masala Chai,Beverages,12.00,1,12.00,Cash,Success
+102,2026-11-15,09:15:00,2,Bhavana Ramesh,Student,1,Ghee Roast Dosa,Breakfast,45.00,1,45.00,Cash,Success
+103,2026-11-15,12:45:00,5,Dr. S. Priya,Faculty,6,South Indian Veg Meals,Lunch & Meals,70.00,2,140.00,Card,Success
+104,2026-11-15,13:10:00,3,Gowtham K,Student,8,Chicken Biryani,Lunch & Meals,110.00,1,110.00,UPI,Success
+105,2026-11-15,16:30:00,4,Naveen Kumar,Student,11,Veg Puff,Snacks & Quick Bites,20.00,2,40.00,Student Wallet,Success
+105,2026-11-15,16:30:00,4,Naveen Kumar,Student,17,Masala Chai,Beverages,12.00,1,12.00,Student Wallet,Success
+106,2026-11-15,17:00:00,7,Sneha Murali,Student,13,Samosa (2 pcs),Snacks & Quick Bites,20.00,2,40.00,UPI,Success
+106,2026-11-15,17:00:00,7,Sneha Murali,Student,18,Fresh Lemon Juice,Beverages,25.00,1,25.00,UPI,Success
+107,2026-11-16,08:45:00,8,Vigneshwaran R,Student,5,Pongal with Chutney,Breakfast,35.00,2,70.00,UPI,Success
+108,2026-11-16,10:00:00,6,Prof. M. Karthik,Faculty,16,Filter Coffee,Beverages,15.00,2,30.00,Cash,Success
+109,2026-11-16,12:30:00,1,Aravind Swaminathan,Student,7,Egg Fried Rice,Lunch & Meals,65.00,2,130.00,UPI,Success
+110,2026-11-16,13:00:00,2,Bhavana Ramesh,Student,8,Chicken Biryani,Lunch & Meals,110.00,1,110.00,Card,Success
+110,2026-11-16,13:00:00,2,Bhavana Ramesh,Student,7,Egg Fried Rice,Lunch & Meals,65.00,1,65.00,Card,Success
+111,2026-11-16,16:15:00,3,Gowtham K,Student,13,Samosa (2 pcs),Snacks & Quick Bites,20.00,2,40.00,Student Wallet,Success
+112,2026-11-16,17:30:00,10,Deepak Raj,Student,14,Paneer Roll,Snacks & Quick Bites,50.00,1,50.00,UPI,Success
+112,2026-11-16,17:30:00,10,Deepak Raj,Student,18,Fresh Lemon Juice,Beverages,25.00,1,25.00,UPI,Success
+113,2026-11-17,08:15:00,4,Naveen Kumar,Student,2,Idli & Vada Combo,Breakfast,30.00,2,60.00,UPI,Success
+114,2026-11-17,09:30:00,9,Harini Venkatesh,Student,16,Filter Coffee,Beverages,15.00,1,15.00,UPI,Success
+115,2026-11-17,12:40:00,5,Dr. S. Priya,Faculty,10,Curd Rice with Pickle,Lunch & Meals,40.00,1,40.00,UPI,Success
+116,2026-11-17,13:15:00,7,Sneha Murali,Student,8,Chicken Biryani,Lunch & Meals,110.00,1,110.00,Cash,Success
+117,2026-11-17,16:45:00,8,Vigneshwaran R,Student,12,Egg Puff,Snacks & Quick Bites,25.00,2,50.00,Student Wallet,Success
+117,2026-11-17,16:45:00,8,Vigneshwaran R,Student,17,Masala Chai,Beverages,12.00,2,24.00,Student Wallet,Success
+118,2026-11-18,08:30:00,10,Deepak Raj,Student,3,Poori Masala (2 pcs),Breakfast,40.00,1,40.00,UPI,Success
+119,2026-11-18,10:15:00,6,Prof. M. Karthik,Faculty,17,Masala Chai,Beverages,12.00,3,36.00,Cash,Success
+120,2026-11-18,12:50:00,1,Aravind Swaminathan,Student,8,Chicken Biryani,Lunch & Meals,110.00,2,220.00,UPI,Success
+121,2026-11-18,13:20:00,3,Gowtham K,Student,6,South Indian Veg Meals,Lunch & Meals,70.00,1,70.00,UPI,Success
+122,2026-11-18,16:30:00,9,Harini Venkatesh,Student,13,Samosa (2 pcs),Snacks & Quick Bites,20.00,1,20.00,Cash,Success
+122,2026-11-18,16:30:00,9,Harini Venkatesh,Student,19,Cold Badam Milk,Beverages,30.00,1,30.00,Cash,Success
+123,2026-11-19,08:50:00,2,Bhavana Ramesh,Student,1,Ghee Roast Dosa,Breakfast,45.00,1,45.00,UPI,Success
+123,2026-11-19,08:50:00,2,Bhavana Ramesh,Student,16,Filter Coffee,Beverages,15.00,1,15.00,UPI,Success
+124,2026-11-19,12:35:00,4,Naveen Kumar,Student,9,Paneer Butter Masala Combo,Lunch & Meals,85.00,1,85.00,Student Wallet,Success
+125,2026-11-19,13:10:00,5,Dr. S. Priya,Faculty,6,South Indian Veg Meals,Lunch & Meals,70.00,1,70.00,UPI,Success
+126,2026-11-19,16:40:00,7,Sneha Murali,Student,14,Paneer Roll,Snacks & Quick Bites,50.00,2,100.00,UPI,Success
+127,2026-11-19,17:15:00,8,Vigneshwaran R,Student,11,Veg Puff,Snacks & Quick Bites,20.00,2,40.00,Cash,Success
+128,2026-11-20,08:40:00,3,Gowtham K,Student,2,Idli & Vada Combo,Breakfast,30.00,2,60.00,UPI,Success
+129,2026-11-20,10:30:00,1,Aravind Swaminathan,Student,17,Masala Chai,Beverages,12.00,2,24.00,UPI,Success
+130,2026-11-20,12:45:00,9,Harini Venkatesh,Student,8,Chicken Biryani,Lunch & Meals,110.00,1,110.00,UPI,Success
+131,2026-11-20,13:30:00,10,Deepak Raj,Student,7,Egg Fried Rice,Lunch & Meals,65.00,1,65.00,Cash,Success
+132,2026-11-20,16:20:00,2,Bhavana Ramesh,Student,13,Samosa (2 pcs),Snacks & Quick Bites,20.00,2,40.00,UPI,Success
+132,2026-11-20,16:20:00,2,Bhavana Ramesh,Student,18,Fresh Lemon Juice,Beverages,25.00,2,50.00,UPI,Success
+133,2026-11-21,08:30:00,4,Naveen Kumar,Student,1,Ghee Roast Dosa,Breakfast,45.00,2,90.00,UPI,Success
+134,2026-11-21,09:15:00,6,Prof. M. Karthik,Faculty,16,Filter Coffee,Beverages,15.00,2,30.00,Cash,Success
+135,2026-11-21,11:00:00,5,Dr. S. Priya,Faculty,11,Veg Puff,Snacks & Quick Bites,20.00,3,60.00,UPI,Success
+135,2026-11-21,11:00:00,5,Dr. S. Priya,Faculty,17,Masala Chai,Beverages,12.00,3,36.00,UPI,Success
